@@ -1,0 +1,46 @@
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+.col{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-direction: column;
+    h3{
+        font-size: 20px;
+        font-weight: 400;
+        color: gray;
+    }
+    .info{
+        display: flex;
+        flex-direction: column;
+        align-items: left;
+        margin-left: 20px;
+    }
+    .icons{
+        display: flex;
+        justify-content: center;
+        margin-right: 30px;
+    }
+}
+.inputs{
+    display: flex;
+    justify-content: space-between;
+    input{
+        padding: 10px 15px;
+        border: 2px solid greenyellow ;
+        border-radius: 20px;
+        outline: none;
+    }
+    select{
+        padding: 13px 14px;
+        border-radius: 20px;
+        border: 2px solid greenyellow;
+        outline: none;
+    }
+
+}

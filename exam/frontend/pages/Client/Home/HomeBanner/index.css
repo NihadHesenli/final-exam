@@ -1,0 +1,39 @@
+.div{
+    background-image: url('https://preview.colorlib.com/theme/eiser/img/banner/banner-bg.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    width: 100%;
+}
+.banner-info{
+    position: absolute;
+    top: 38%;
+    right: 60%;
+}
+.banner-info-h1{
+    color: white;
+    font-size: 3.2rem;
+    width: 320px;
+}
+.banner-info-p1{
+    font-size: 20px;
+    text-transform: uppercase;
+    color: white;
+}
+.banner-info-p2{
+    margin: 20px 0;
+    color: white;
+}
+.banner-button{
+    padding: 13px 21px;
+    font-size: 0.8rem;
+    width: 180px;
+    background-color: #71CD14;
+    color: white;
+    border-radius: 7px;
+    border: 1px solid transparent;
+}
+.banner-span{
+    color: #71CD14;
+}

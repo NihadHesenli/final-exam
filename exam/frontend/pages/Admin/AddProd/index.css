@@ -1,0 +1,12 @@
+input{
+    padding: 10px 20px;
+}
+form{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin:  30px auto;
+    width: 400px;
+    gap: 30px;
+
+}
